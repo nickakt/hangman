@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 Game hangman is writen on RUBY. 
 
 
