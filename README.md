@@ -55,6 +55,6 @@ __|________
 The new words can be added to
 
 ```
-/data/word.txt
+/data/words.txt
 ```
 Please note that word MUST BE in the upper case 
